@@ -1,19 +1,15 @@
-# JPEG Compression Analysis
+# 📷 Analiza kompresji JPG – artefakty wizualne
 
-A short academic project analyzing the artifacts introduced by JPEG image compression.
+Krótka analiza kompresji obrazu w formacie JPEG oraz wizualnych zniekształceń, które pojawiają się przy różnych poziomach jakości.
 
-This work explores:
-- How JPEG compression works (DCT, quantization, entropy coding)
-- Types of visual artifacts such as blocking and color degradation
-- Comparative visual examples at different compression levels
+## 🧠 Zawartość
 
-📄 [Read the full report (PDF)](docs/Analiza_kompresji_JPG.pdf)
+- Opis algorytmu kompresji JPG
+- Przykłady pogorszenia jakości obrazu
+- Główne artefakty: efekt blokowania i utrata ostrości
+- Porównanie: niska vs wysoka jakość kompresji
 
----
+## 📄 Pełny raport
 
-🛠️ **Technologies & Tools:**
-- Image analysis
-- JPG encoding theory
-- Visual comparison
-
-🔍 Useful for those exploring lossy compression, image formats, or perceptual quality.
+Raport w formacie PDF znajduje się w folderze `docs/`:
+[📥 Pobierz raport](docs/Analiza_kompresji_JPG.pdf)
